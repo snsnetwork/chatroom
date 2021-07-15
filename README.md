@@ -1,2 +1,3 @@
 # chatroom
-chatroom made with Firebase/JS
+chatroom made with node.js
+
